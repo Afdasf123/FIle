@@ -22490,15 +22490,15 @@ font-family:Consolas;color:#CCCCCC'>&nbsp;</span></p>
 
 <p class=MsoNoSpacing>&nbsp;</p>
 
-<p class=MsoNoSpacing>OPENAI_API_KEY=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</p>
+<p class=MsoNoSpacing>OPENAI_API_KEY=</p>
 
-<p class=MsoNoSpacing>FLASK_SECRET_KEY=6bf81c973308e3318bfd692ad31007c692f18a0043a21e12</p>
+<p class=MsoNoSpacing>FLASK_SECRET_KEY=</p>
 
-<p class=MsoNoSpacing>OPENAI_API_KEY=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</p>
+<p class=MsoNoSpacing>OPENAI_API_KEY=</p>
 
-<p class=MsoNoSpacing>INSTAGRAM_APP_ID=1921024688690156</p>
+<p class=MsoNoSpacing>INSTAGRAM_APP_ID=</p>
 
-<p class=MsoNoSpacing>INSTAGRAM_APP_SECRET=19a8adc10da49c0e370eb459a76a14ca</p>
+<p class=MsoNoSpacing>INSTAGRAM_APP_SECRET=</p>
 
 <p class=MsoNoSpacing>INSTAGRAM_REDIRECT_URI=https://osslo.pythonanywhere.com/instagram_callback</p>
 
@@ -26205,13 +26205,13 @@ href="https://imaggen-nine.vercel.app/">https://imaggen-nine.vercel.app/</a>�
 line-height:14.25pt;background:#1F1F1F'><span style='font-size:10.5pt;
 font-family:Consolas;color:#569CD6'>VITE_PEXELS_API_KEY</span><span
 style='font-size:10.5pt;font-family:Consolas;color:#CCCCCC'>=</span><span
-style='font-size:10.5pt;font-family:Consolas;color:#CE9178'>&quot;Tdli69DNGnsGltcEf4Om48hl2XkdIBChsJsaX6Rcs7WRu32ieGR2Y6VU&quot;</span></p>
+style='font-size:10.5pt;font-family:Consolas;color:#CE9178'>&quot;&quot;</span></p>
 
 <p class=MsoNormal align=left style='text-align:left;text-indent:0in;
 line-height:14.25pt;background:#1F1F1F'><span style='font-size:10.5pt;
 font-family:Consolas;color:#569CD6'>VITE_OPENAI_API_KEY</span><span
 style='font-size:10.5pt;font-family:Consolas;color:#CCCCCC'>=</span><span
-style='font-size:10.5pt;font-family:Consolas;color:#CE9178'>&quot;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&quot;</span></p>
+style='font-size:10.5pt;font-family:Consolas;color:#CE9178'>&quot;&quot;</span></p>
 
 <p class=MsoNoSpacing style='text-indent:0in'>&nbsp;</p>
 
